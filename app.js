@@ -10,6 +10,7 @@ function agregarAmigo() {
         amigos.push(nombreAgregado);
         console.log(amigos);
         asignarTextoElemento("#amigo", "");
+        actualizarLista();
         return;
     }
 }
@@ -18,8 +19,25 @@ function agregarAmigo() {
 function actualizarLista() {
     let lista = document.querySelector("#listaAmigos");
     lista.innerHTML = "";
-    
+    for (let i = 0; i < amigos.length; i++) {
+        let elemento = document.createElement("li");
+        elemento.innerHTML = amigos[i];
+        lista.append(elemento);
+    }
+    return;
 }
+
+//Función principal que elegirá al ganador
+function sortearAmigo() {
+    if (amigos.length == 0) {
+        alert("Agrege amigos");
+    } else {
+        let indice = Math.floor(Math.random()*amigos.length);
+        console.log(indice);
+        document.getElementById("resultado").innerHTML = amigos[indice];
+    }
+}
+
 
 //Función genérica para establecer el texto de un elemento en determinado valor
 function asignarTextoElemento(elemento, texto) {
