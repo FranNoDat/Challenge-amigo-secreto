@@ -1,4 +1,6 @@
-![Logo Alura Latam](https://github.com/user-attachments/assets/08db7035-e23a-4a44-9af0-140255d92be4)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/08db7035-e23a-4a44-9af0-140255d92be4" alt="Logo Alura Latam">
+</div>
 <h1 align="center"> Proyecto "Amigo Secreto" </h1>
 ![Badge finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-yellow)
 
