@@ -2,7 +2,8 @@
   <img src="https://github.com/user-attachments/assets/08db7035-e23a-4a44-9af0-140255d92be4" alt="Logo Alura Latam">
 </div>
 <h1 align="center"> Proyecto "Amigo Secreto" </h1>
-![Badge finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-yellow)
+
+![Badge finalizado](https://img.shields.io/badge/STATUS-Finalizado-Yellow)
 
 Este proyecto es una aplicación web sencilla para organizar un sorteo de "Amigo Secreto". Permite a los usuarios agregar nombres de participantes y realizar el sorteo de manera aleatoria, mostrando el ganador en pantalla.
 
