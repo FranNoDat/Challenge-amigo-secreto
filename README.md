@@ -7,6 +7,8 @@
 
 Este proyecto es una aplicación web sencilla para organizar un sorteo de "Amigo Secreto". Permite a los usuarios agregar nombres de participantes y realizar el sorteo de manera aleatoria, mostrando el ganador en pantalla.
 
+<img src="https://github.com/user-attachments/assets/08db7035-e23a-4a44-9af0-140255d92be4" alt="Insignia Alura Latam" width="300">
+
 ## ❗Funcionalidades del proyecto
 - Agregar nombres de amigos participantes 
 - Visualizar la lista de participantes en tiempo real 
