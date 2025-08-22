@@ -9,6 +9,8 @@ Este proyecto es una aplicación web sencilla para organizar un sorteo de "Amigo
 
 <img width="100" height="100" alt="Insignia" align="right" src="https://github.com/user-attachments/assets/2cacef60-f237-41cc-9c9a-97b6db62a9c9" />
 
+
+
 ## ❗Funcionalidades del proyecto
 - Agregar nombres de amigos participantes 
 - Visualizar la lista de participantes en tiempo real 
